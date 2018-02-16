@@ -1,3 +1,5 @@
 # Mini homeworks
 
-Leave your submissions as a PR
+- Fork the repo 
+- Clone the repo 
+- Leave your submissions as a PR 
